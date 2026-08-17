@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Junio de Souza! 👋
 
-<!--
-**jrcsouza/jrcsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
+Desenvolvedor Java Backend em formação, focado na construção de APIs, regras de negócio e sistemas escaláveis.
 
-Here are some ideas to get you started:
+- 🎓 Trilhando o caminho de **Lógica de Programação**, **Programação Orientada a Objetos (POO)** e arquitetura de **APIs REST com Spring Boot**.
+- 🛠️ Praticando com **Java 23**, **Maven**, **Git** e **IntelliJ IDEA Ultimate**.
+- 💼 Construindo portfólio focado em **Desenvolvimento Backend Java (Júnior / Estágio)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas (Foco Backend)
+- **Linguagem:** Java 23
+- **Build & Dependências:** Maven
+- **Ambiente & Controle de Versão:** IntelliJ IDEA Ultimate, Git & GitHub
+- **Próximos Passos:** Spring Boot, PostgreSQL, Hibernate/JPA, Docker
+
+---
+
+### 📂 Trilha Backend
+- [x] **Fase 1:** Lógica de Programação & Estruturas de Dados Básicas *(Em andamento)*
+- [ ] **Fase 2:** POO, Coleções & Tratamento de Exceções
+- [ ] **Fase 3:** Bancos de Dados Relacionais & SQL
+- [ ] **Fase 4:** APIs RESTful com Spring Boot & Testes Unitários
