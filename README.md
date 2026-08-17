@@ -1,4 +1,4 @@
-# Olá, eu sou o Junio de Souza! 👋
+# Olá, eu sou o Junior de Souza! 👋
 
 ### 🚀 Sobre mim
 Desenvolvedor Java Backend em formação, focado na construção de APIs, regras de negócio e sistemas escaláveis.
